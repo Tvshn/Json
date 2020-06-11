@@ -50,7 +50,7 @@ export default function getPosts(url, element, callMeBack) {
                   <a href=""><img src="${this.img1}" alt=""></a>
                   <a href=""><img src="${this.img2}" alt=""></a>
                   <a href=""><img src="${this.img3}" alt=""></a>			
-        </div>
+              </div>
               <div class="details">
                   <a href="">${this.title1}</a>
                   <a href="">${this.title2}</a>
